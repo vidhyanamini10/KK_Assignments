@@ -19,5 +19,7 @@ public class PalindromeOrNot {
         }else {
             System.out.println("Not palindrome");
         }
+
+        str.close();
     }
 }

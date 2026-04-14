@@ -17,5 +17,7 @@ public class LargestNumber {
         }else {
             System.out.println("num2 is the largest number "+ num2);
         }
+
+        input.close();
     }
 }

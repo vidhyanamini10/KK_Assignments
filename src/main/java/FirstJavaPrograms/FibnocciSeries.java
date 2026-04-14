@@ -21,6 +21,7 @@ public class FibnocciSeries {
 
             //System.out.print(a);
         }
+        sc.close();
     }
 
 }

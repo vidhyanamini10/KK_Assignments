@@ -19,5 +19,7 @@ public class RupeeToUSDConversion {
         //BigDecimal bd = BigDecimal.valueOf(rupee * usdToInr);
 
         System.out.println("INR to USD conversion: $ " + USDAmount);
+
+        input.close();
     }
 }
